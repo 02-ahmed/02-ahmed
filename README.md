@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react with typescript
 -  📫 How to reach me: https://x.com/_02ahmed
 
--  Here's a cool fun fact: In javaScript, Nan has a type of number
+-  Here's a cool fun fact: In JavaScript, Nan has a type of number
 
 
 
