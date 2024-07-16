@@ -5,6 +5,8 @@
 
 -  Here's a cool fun fact: In JavaScript, Nan has a type of number
 
+-  ![](https://komarev.com/ghpvc/?02-ahmed&color=ff69b4)
+
 
 
 
