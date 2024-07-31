@@ -1,9 +1,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=02-ahmed&theme=react&hide_border=true)](https://git.io/streak-stats)
 ## Hey there👋, i'm Ahmed Boabae
 - 🌱 I’m currently learning react with typescript
--  📫 How to reach me: https://x.com/_02ahmed
+-  📫 How to reach me:
+   -  https://x.com/_02ahmed
+   -  https://www.linkedin.com/in/ahmed-boabae/
 
--  https://www.linkedin.com/in/ahmed-boabae?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 -  Here's a cool fun fact: In JavaScript, Nan has a type of number
 
