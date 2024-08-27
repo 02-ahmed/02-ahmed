@@ -1,4 +1,4 @@
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=02-ahmed&theme=react&hide_border=true)](https://git.io/streak-stats)
 ## Hey there👋, i'm Ahmed Boabae
 - 🌱 I’m currently learning react with typescript
 -  📫 How to reach me:
