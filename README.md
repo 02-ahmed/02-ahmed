@@ -1,5 +1,5 @@
 ## Hey there👋, i'm Ahmed Boabae
-- 🌱 I’m currently learning react with typescript
+- 🌱 I’m currently learning NextJS
 -  📫 How to reach me:
    -  https://x.com/_02ahmed
    -  https://www.linkedin.com/in/ahmed-boabae/
